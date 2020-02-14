@@ -2,7 +2,8 @@
 A brief demo of dotenv
 
 ## Usage:
-1. Run `npm i` to install the dotenv package
+Clone this repo
+1. Run `npm i` to install the dependencies
 2. Create a file at the root of your project called .env
 3. Add the following variable to the .env file:
   SUPER_SECRET=123abc
