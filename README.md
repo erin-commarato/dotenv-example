@@ -8,4 +8,4 @@ Clone this repo
 3. Add the following variable to the .env file:
   SUPER_SECRET=123abc
 4. In your terminal, run `node index.js`
-5. The secret variable is found in process.env, thanks to the dotenv package
+5. The secret variable is console logged, thanks to the dotenv package
