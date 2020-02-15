@@ -1,5 +1,5 @@
 # dotenv-example
-A brief demo of dotenv
+A brief demo of dotenv.
 
 ## Usage:
 Clone this repo
